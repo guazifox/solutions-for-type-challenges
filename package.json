@@ -1,0 +1,16 @@
+{
+  "name": "solutions-for-type-challenges",
+  "version": "0.0.1",
+  "description": "A collection of solutions for TypeScript type-challenges",
+  "scripts": {},
+  "keywords": [
+    "TypeScript",
+    "type-challenges",
+    "solutions"
+  ],
+  "author": "guazifox",
+  "license": "MIT",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
